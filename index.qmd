@@ -8,7 +8,11 @@ format:
 
 ```{=html}
 <!-- Profile picture: change object-position in styles.css to adjust the crop -->
+<div>
+<p>
 <img src="Photo.jpg" alt="Haley McCann" class="profile-pic">
+</p>
+</div>
 ```
 
 Welcome to my website!
@@ -31,13 +35,13 @@ I am a fourth year biology major and I am very interested in traveling the world
 <div class="project">
   <h3>Spasojevic Lab</h3>
   <p>This is a link to a research lab I am apart of!</p>
-  <a href="https://spasojeviclab.com" target="_blank">visit the lab website →</a>
+  <a href="https://mspaso.wixsite.com/traitecology" target="_blank">visit the lab website →</a>
 </div>
 
 <div class="project">
   <h3>Rankin Lab</h3>
   <p>This is research I was apart of last summer.</p>
-  <a href="https://rankinlab.com" target="_blank">visit the lab website →</a>
+  <a href="https://faculty.ucr.edu/~eewilson/" target="_blank">visit the lab website →</a>
 </div>
 ```
 
