@@ -1,0 +1,81 @@
+/* ── BASE ── */
+body {
+  background-color: #e8f5e3;
+  font-family: Arial;
+  margin: 40px;
+}
+
+h1 { color: #2d6a2d; }
+h2 { color: #1a4a1a; }
+p  { font-size: 16px; }
+
+a { color: #5a3e8a; }
+hr { border: 1px solid #a8c8a0; }
+
+/* ── NAVBAR (Quarto cosmo overrides) ── */
+.navbar {
+  background-color: #2d6a2d !important;
+  border-bottom: 3px solid #1a4a1a;
+}
+
+.navbar-brand,
+.navbar .nav-link {
+  color: white !important;
+  font-size: 17px;
+}
+
+.navbar .nav-link:hover {
+  color: #c8f0c0 !important;
+}
+
+.navbar-logo {
+  height: 36px;
+  margin-right: 8px;
+}
+
+/* ── PROFILE PICTURE ── */
+/* To adjust the crop, change object-position below.
+   Examples:
+     object-position: center top;    <- shows top of photo
+     object-position: center center; <- shows middle (default)
+     object-position: center 20%;    <- a little above center
+*/
+.profile-pic {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  object-fit: cover;
+  object-position: center top; /* <-- change this to adjust crop */
+  display: block;
+  margin: 20px auto;
+  border: 4px solid #2d6a2d;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+}
+
+/* ── PROJECT / RESEARCH CARDS ── */
+.project {
+  background-color: #f5fbf3;
+  border: 2px solid #2d6a2d;
+  border-left: 6px solid #2d6a2d;
+  padding: 14px 16px;
+  margin-bottom: 18px;
+  max-width: 500px;
+  border-radius: 4px;
+}
+
+.project h3 {
+  color: #2d6a2d;
+  margin-bottom: 6px;
+}
+
+.project a {
+  font-size: 0.9rem;
+  color: #5a3e8a;
+}
+
+/* ── FOOTER ── */
+footer, .footer-text {
+  color: #6a9e6a;
+  font-size: 0.85rem;
+  margin-top: 40px;
+}

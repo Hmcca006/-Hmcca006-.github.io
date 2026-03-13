@@ -1,0 +1,22 @@
+project:
+  type: website
+
+website:
+  title: "Haley McCann's Website"
+  navbar:
+    logo: cat.svg
+    left:
+      - href: index.qmd
+        text: Home
+      - href: projects.qmd
+        text: Portfolio
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+
+editor: visual
