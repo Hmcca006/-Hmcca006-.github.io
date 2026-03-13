@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hello! 🌿",
+    "section": "",
+    "text": "Welcome to my website!\nMy name is Haley McCann, and I am learning how to code! :)\nThis is my first website ever so please be nice lol"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Hello! 🌿",
+    "section": "About Me",
+    "text": "About Me\nI am a fourth year biology major and I am very interested in traveling the world and exploring nature. I work as a tutor at Ramona High School, and I am also a Peer Mentor at the Academic Resource Center! I also participate in two research labs at UC Riverside as listed below."
+  },
+  {
+    "objectID": "index.html#research-experience",
+    "href": "index.html#research-experience",
+    "title": "Hello! 🌿",
+    "section": "Research Experience",
+    "text": "Research Experience\n\n  Spasojevic Lab\n  This is a link to a research lab I am apart of!\n  visit the lab website →\n\n\n\n  Rankin Lab\n  This is research I was apart of last summer.\n  visit the lab website →"
+  },
+  {
+    "objectID": "index.html#skills",
+    "href": "index.html#skills",
+    "title": "Hello! 🌿",
+    "section": "Skills",
+    "text": "Skills\n\nHTML\nCSS\nR Script Coding"
+  },
+  {
+    "objectID": "index.html#contact-me",
+    "href": "index.html#contact-me",
+    "title": "Hello! 🌿",
+    "section": "Contact Me",
+    "text": "Contact Me\nEmail me at: hmcca006@ucr.edu\nMy github is: github.com/Hmcca006\n\n– made by Haley McCann 2026 –"
+  },
+  {
+    "objectID": "FINAL project.html",
+    "href": "FINAL project.html",
+    "title": "FINAL project",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "FINAL project.html#quarto",
+    "href": "FINAL project.html#quarto",
+    "title": "FINAL project",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "My Portfolio! 🌿",
+    "section": "",
+    "text": "This is what I am currently working on at UC Riverside.\n\n\n\n\n  \n  I spent time researching plant-insect interactions with weevils and the bushmallows.\n  I learned about: refractometry, feeding assays, fieldwork\n  click here to see it →\n\n\n\n  \n  I work in a lab that analyzes camera trap data and I help make radial plots of the animals we find.\n  I learned about: coding, analyzing species, and data collection\n  click here to see it →\n\n\n\n  \n  My portfolio website!! Made with HTML CSS and Quarto.\n  I learned about: HTML tags, CSS styling, qmd files\n  you are already here! →\n\n\n– made by Haley McCann 2026 –"
+  },
+  {
+    "objectID": "projects.html#my-projects",
+    "href": "projects.html#my-projects",
+    "title": "My Portfolio! 🌿",
+    "section": "",
+    "text": "This is what I am currently working on at UC Riverside.\n\n\n\n\n  \n  I spent time researching plant-insect interactions with weevils and the bushmallows.\n  I learned about: refractometry, feeding assays, fieldwork\n  click here to see it →\n\n\n\n  \n  I work in a lab that analyzes camera trap data and I help make radial plots of the animals we find.\n  I learned about: coding, analyzing species, and data collection\n  click here to see it →\n\n\n\n  \n  My portfolio website!! Made with HTML CSS and Quarto.\n  I learned about: HTML tags, CSS styling, qmd files\n  you are already here! →\n\n\n– made by Haley McCann 2026 –"
+  }
+]
